@@ -1,16 +1,16 @@
-## Hi there 👋
+# Welcome to my GitHub page
 
-<!--
-**B-Trinh-EECS/B-Trinh-EECS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+My name is Nam Binh Trinh, a student at University of Central Florida, an enthusiastic in computer science, a hobbyist in electronic, a die-hard and experience cybersecurity specialist, a self-proclaim ethical hacker, a respectful member of Hack@UCF, a friend who in need, and a person who is not afraid with exploring and curious about the beyond
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## Entry into Computer Science
+
+## Soldering is a practice
+
+## Cyberwarlord >:)
+
+## Looking Ahead
+
+## Non-CS Related materia
