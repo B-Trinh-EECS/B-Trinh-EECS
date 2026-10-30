@@ -12,7 +12,7 @@ original image got comment out :(
 
 <!-- New Image -->
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/cb19848b-fee9-4451-8f96-71225214dbfc" alt="Photo Oct 30 2026, 1 19 59 AM" width="50%" />
+  <img src="https://github.com/user-attachments/assets/cb19848b-fee9-4451-8f96-71225214dbfc" alt="Photo Oct 30 2026, 1 19 59 AM" width="25%" />
 </div>
 
 ## Entry into Computer Science
